@@ -1,10 +1,28 @@
-﻿namespace CoffeeMachine
+﻿using CoffeeMachine.Controller;
+using CoffeeMachine.Repository;
+using CoffeeMachine.Services;
+using CoffeeMachine.View;
+
+namespace CoffeeMachine
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static async Task Main()
         {
-            Console.WriteLine("Hello, World!");
+            ConsoleView view = new ConsoleView();
+
+            CoffeeRepository coffeeRepository = new CoffeeRepository();
+            CoffeeService coffeeService = new CoffeeService(coffeeRepository);
+
+            MachineRepository machineRepository = new MachineRepository();
+            MachineService machineService = new MachineService(machineRepository);
+
+            OrderRepository orderRepository = new OrderRepository();
+            OrderService orderService = new OrderService(orderRepository, coffeeService, machineService);
+
+            CoffeeShopController controller = new CoffeeShopController(view, coffeeService, machineService, orderService);
+            await controller.RunApp();
+
         }
     }
 }

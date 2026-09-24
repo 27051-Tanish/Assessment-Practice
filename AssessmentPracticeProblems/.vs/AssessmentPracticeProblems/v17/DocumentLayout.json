@@ -3,8 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\repository\\coffeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\repository\\coffeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\services\\machineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\services\\machineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\controller\\coffeeshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\controller\\coffeeshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\models\\enums\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\models\\enums\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\view\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\view\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\models\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\models\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\models\\core\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\models\\core\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\services\\coffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\services\\coffeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\repository\\machinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\repository\\machinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\models\\core\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\models\\core\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\models\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\models\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|c:\\users\\tanish.raffi\\desktop\\assessment-practice\\assessment-practice\\assessmentpracticeproblems\\coffeemachine\\models\\enums\\coffeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFE65D7-2495-402A-BFDF-8A6BF5E65B60}|CoffeeMachine\\CoffeeMachine.csproj|solutionrelative:coffeemachine\\models\\enums\\coffeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 534,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,16 +90,186 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleView.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\View\\ConsoleView.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\View\\ConsoleView.cs",
+              "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\View\\ConsoleView.cs",
+              "RelativeToolTip": "CoffeeMachine\\View\\ConsoleView.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAIA2wCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T08:44:17.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoffeeShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Controller\\CoffeeShopController.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Controller\\CoffeeShopController.cs",
+              "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Controller\\CoffeeShopController.cs",
+              "RelativeToolTip": "CoffeeMachine\\Controller\\CoffeeShopController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T08:43:54.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "CoffeeMachine\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T07:28:29.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MachineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Repository\\MachineRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Repository\\MachineRepository.cs",
+              "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Repository\\MachineRepository.cs",
+              "RelativeToolTip": "CoffeeMachine\\Repository\\MachineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T07:19:34.009Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CoffeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Repository\\CoffeeRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Repository\\CoffeeRepository.cs",
+              "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Repository\\CoffeeRepository.cs",
+              "RelativeToolTip": "CoffeeMachine\\Repository\\CoffeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T07:16:37.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CoffeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Services\\CoffeeService.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Services\\CoffeeService.cs",
+              "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Services\\CoffeeService.cs",
+              "RelativeToolTip": "CoffeeMachine\\Services\\CoffeeService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA6wBUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T07:00:00.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MachineService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Services\\MachineService.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Services\\MachineService.cs",
+              "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Services\\MachineService.cs",
+              "RelativeToolTip": "CoffeeMachine\\Services\\MachineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T06:59:30.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Services\\OrderService.cs",
+              "RelativeToolTip": "CoffeeMachine\\Services\\OrderService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T06:51:11.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Models\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Models\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Models\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "CoffeeMachine\\Models\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T06:43:04.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CoffeeType.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Models\\Enums\\CoffeeType.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Models\\Enums\\CoffeeType.cs",
+              "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Models\\Enums\\CoffeeType.cs",
+              "RelativeToolTip": "CoffeeMachine\\Models\\Enums\\CoffeeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T06:27:49.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Models\\Enums\\MainMenu.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Models\\Enums\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Models\\Enums\\MainMenu.cs",
+              "RelativeToolTip": "CoffeeMachine\\Models\\Enums\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T06:27:24.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Models\\Core\\Coffee.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Models\\Core\\Coffee.cs",
+              "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Models\\Core\\Coffee.cs",
+              "RelativeToolTip": "CoffeeMachine\\Models\\Core\\Coffee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T06:26:51.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Models\\Core\\Order.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Models\\Core\\Order.cs",
+              "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Models\\Core\\Order.cs",
+              "RelativeToolTip": "CoffeeMachine\\Models\\Core\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T06:25:56.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Models\\Core\\Machine.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine\\Models\\Core\\Machine.cs",
+              "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Models\\Core\\Machine.cs",
+              "RelativeToolTip": "CoffeeMachine\\Models\\Core\\Machine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T04:25:05.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Program.cs",
               "RelativeDocumentMoniker": "CoffeeMachine\\Program.cs",
               "ToolTip": "C:\\Users\\Tanish.raffi\\Desktop\\Assessment-Practice\\Assessment-Practice\\AssessmentPracticeProblems\\CoffeeMachine\\Program.cs",
               "RelativeToolTip": "CoffeeMachine\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T12:25:24.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T12:25:24.669Z"
             }
           ]
         },
